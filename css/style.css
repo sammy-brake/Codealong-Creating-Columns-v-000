@@ -118,3 +118,8 @@ visibility: hidden;
 height: 0px;
 line-height: 0px;
 }
+
+section {
+  padding: 20px;
+  margin-bottom: 30px;
+}
